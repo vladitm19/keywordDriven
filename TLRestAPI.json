@@ -1,0 +1,7 @@
+{
+  "API": {
+    "basePath": "/api",
+    "projectsEndpoint": "/projects.json",
+    "projectByIdEndpoint": "/projects/[id].json"
+  }
+}
